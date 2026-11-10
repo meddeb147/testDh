@@ -122,7 +122,7 @@ def F(poly, t0, center, color=RED, beat=False, flicker=False, **kw):
     """Filled shape that pops in with overshoot."""
     cx, cy = center
     def d(ctx, p, t):
-        s = ease_back(p)
+        s = max(ease_back(p), 1e-3)
         if beat: s *= 1 + 0.06 * max(0, math.sin((t - t0) * 6.0)) ** 8
         sy = s
         if flicker: sy *= 1 + 0.05 * math.sin(t * 13) + 0.03 * math.sin(t * 21)

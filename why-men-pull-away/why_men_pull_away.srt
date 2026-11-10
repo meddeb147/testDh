@@ -1,243 +1,287 @@
 1
-00:00:00,300 --> 00:00:01,646
+00:00:00,160 --> 00:00:01,410
 Why does a man pull away
 
 2
-00:00:01,646 --> 00:00:03,247
-from the woman he loves…
+00:00:01,460 --> 00:00:03,150
+from the woman he loves,
 
 3
-00:00:03,247 --> 00:00:05,997
-right when his life is at its hardest?
+00:00:03,200 --> 00:00:04,995
+right when life gets hardest?
 
 4
-00:00:06,297 --> 00:00:08,296
-From the outside, it's confusing.
+00:00:05,350 --> 00:00:06,420
+From the outside,
 
 5
-00:00:08,296 --> 00:00:09,504
-If he loves her…
+00:00:06,470 --> 00:00:07,960
+it makes no sense.
 
 6
-00:00:09,504 --> 00:00:11,254
-why would he leave?
+00:00:08,010 --> 00:00:09,180
+If he loves her,
 
 7
-00:00:11,554 --> 00:00:13,199
-Because what a man feels…
+00:00:09,230 --> 00:00:10,685
+why would he push her away?
 
 8
-00:00:13,199 --> 00:00:14,712
-and how he handles it…
+00:00:10,950 --> 00:00:12,800
+But here's something
 
 9
-00:00:14,712 --> 00:00:17,028
-are not always the same thing.
+00:00:12,850 --> 00:00:14,480
+most people don't understand.
 
 10
-00:00:17,328 --> 00:00:18,680
-When everything inside him
+00:00:14,840 --> 00:00:16,150
+What a man feels
 
 11
-00:00:18,680 --> 00:00:19,979
-starts to collapse…
+00:00:16,200 --> 00:00:18,130
+and how he deals with those feelings
 
 12
-00:00:19,979 --> 00:00:21,632
-when he feels lost, drained,
+00:00:18,180 --> 00:00:20,135
+are two very different things.
 
 13
-00:00:21,632 --> 00:00:23,422
-and out of control…
+00:00:20,480 --> 00:00:21,510
+When everything in his life
 
 14
-00:00:23,722 --> 00:00:24,897
-he's not thinking about
+00:00:21,560 --> 00:00:23,090
+starts falling apart,
 
 15
-00:00:24,897 --> 00:00:26,371
-how to keep her close.
+00:00:23,140 --> 00:00:25,270
+when he feels lost, exhausted,
 
 16
-00:00:26,371 --> 00:00:27,937
-He's thinking about how not to
+00:00:25,320 --> 00:00:27,000
+and completely out of control,
 
 17
-00:00:27,937 --> 00:00:29,903
-drag her down with him.
+00:00:27,300 --> 00:00:28,250
+he isn't thinking about
 
 18
-00:00:30,204 --> 00:00:31,597
-His logic becomes simple:
+00:00:28,300 --> 00:00:29,870
+how to keep her close.
 
 19
-00:00:31,597 --> 00:00:32,718
-If I'm on fire…
+00:00:29,920 --> 00:00:30,950
+He's thinking about how to keep
 
 20
-00:00:32,718 --> 00:00:34,542
-I have to protect the ones I love
+00:00:31,000 --> 00:00:32,825
+his problems from reaching her.
 
 21
-00:00:34,542 --> 00:00:36,118
-from the flames.
+00:00:33,190 --> 00:00:35,290
+In his mind, it's simple:
 
 22
-00:00:36,418 --> 00:00:37,463
-His life has become
+00:00:35,340 --> 00:00:36,780
+If I'm on fire,
 
 23
-00:00:37,463 --> 00:00:38,545
-a burning ship.
+00:00:36,830 --> 00:00:38,350
+I need to protect the people I love
 
 24
-00:00:38,545 --> 00:00:40,320
-So the first thing he does…
+00:00:38,400 --> 00:00:39,635
+from getting burned.
 
 25
-00:00:40,320 --> 00:00:41,981
-is push her away.
+00:00:40,010 --> 00:00:40,850
+Imagine his life
 
 26
-00:00:42,281 --> 00:00:43,710
-And he stays on deck.
+00:00:40,900 --> 00:00:42,420
+as a sinking ship.
 
 27
-00:00:43,710 --> 00:00:45,098
-Because it's his ship.
+00:00:42,470 --> 00:00:44,260
+Instead of asking her for help,
 
 28
-00:00:45,098 --> 00:00:46,317
-His responsibility.
+00:00:44,310 --> 00:00:45,595
+he pushes her away.
 
 29
-00:00:46,317 --> 00:00:47,656
-He either saves it…
+00:00:45,880 --> 00:00:47,410
+And he stays on board,
 
 30
-00:00:47,656 --> 00:00:49,319
-or sinks with it.
+00:00:47,460 --> 00:00:48,830
+because it's his ship,
 
 31
-00:00:49,618 --> 00:00:51,743
-The problem is, in these moments…
+00:00:48,880 --> 00:00:50,460
+his responsibility.
 
 32
-00:00:51,743 --> 00:00:53,260
-he forgets how to love.
+00:00:50,510 --> 00:00:52,340
+He believes he has to save it…
 
 33
-00:00:53,260 --> 00:00:54,298
-He goes quiet.
+00:00:52,390 --> 00:00:53,575
+or sink with it.
 
 34
-00:00:54,298 --> 00:00:55,615
-Closed off.
+00:00:54,190 --> 00:00:55,860
+Here's where things go wrong.
 
 35
-00:00:55,914 --> 00:00:58,088
-Not because his feelings disappeared…
+00:00:55,910 --> 00:00:57,430
+In trying to protect her,
 
 36
-00:00:58,088 --> 00:00:59,307
-but because he believes
+00:00:57,480 --> 00:00:59,530
+he forgets how to let her love him.
 
 37
-00:00:59,307 --> 00:01:01,047
-this is something he has to face
+00:00:59,580 --> 00:01:00,740
+He becomes distant.
 
 38
-00:01:01,047 --> 00:01:02,102
-alone.
+00:01:00,790 --> 00:01:02,020
+He stops talking.
 
 39
-00:01:02,402 --> 00:01:03,622
-And that's exactly where
+00:01:02,070 --> 00:01:03,655
+He shuts down emotionally.
 
 40
-00:01:03,622 --> 00:01:05,375
-men lose everything.
+00:01:03,910 --> 00:01:04,980
+Not necessarily because
 
 41
-00:01:05,674 --> 00:01:06,766
-So many relationships
+00:01:05,030 --> 00:01:06,540
+his feelings are gone,
 
 42
-00:01:06,766 --> 00:01:07,849
-end right here.
+00:01:06,590 --> 00:01:08,720
+because somewhere deep inside,
 
 43
-00:01:07,849 --> 00:01:10,204
-Not because the love was gone…
+00:01:08,770 --> 00:01:10,590
+he believes he has to face everything
 
 44
-00:01:10,504 --> 00:01:12,203
-but because she saw his distance
+00:01:10,640 --> 00:01:11,495
+alone.
 
 45
-00:01:12,203 --> 00:01:13,197
-as rejection…
+00:01:11,860 --> 00:01:13,160
+And that's where so many men
 
 46
-00:01:13,197 --> 00:01:14,501
-and he saw her closeness
+00:01:13,210 --> 00:01:14,280
+lose the very thing
 
 47
-00:01:14,501 --> 00:01:15,861
-as pressure.
+00:01:14,330 --> 00:01:15,595
+they're trying to protect.
 
 48
-00:01:16,161 --> 00:01:17,554
-If each of them understood
+00:01:15,890 --> 00:01:17,160
+So many relationships
 
 49
-00:01:17,554 --> 00:01:19,592
-what the other was going through…
+00:01:17,210 --> 00:01:18,190
+end like this.
 
 50
-00:01:19,592 --> 00:01:22,040
-they would have made it together.
+00:01:18,240 --> 00:01:19,750
+Not because the love disappeared,
 
 51
-00:01:22,340 --> 00:01:23,765
-So if he pulls away…
+00:01:19,890 --> 00:01:21,630
+because she sees his silence
 
 52
-00:01:23,765 --> 00:01:24,848
-don't chase him.
+00:01:21,680 --> 00:01:22,330
+as rejection,
 
 53
-00:01:24,848 --> 00:01:26,108
-And don't disappear.
+00:01:22,380 --> 00:01:24,760
+and he sees her attempts to get closer
 
 54
-00:01:26,108 --> 00:01:27,194
-Just let him know:
+00:01:24,810 --> 00:01:26,240
+as more pressure,
 
 55
-00:01:27,194 --> 00:01:29,075
-I'm not going anywhere.
+00:01:26,290 --> 00:01:27,240
+instead of support.
 
 56
-00:01:29,375 --> 00:01:31,205
-Because the right kind of closeness
+00:01:27,500 --> 00:01:28,830
+If they could only understand
 
 57
-00:01:31,205 --> 00:01:32,548
-doesn't add pressure…
+00:01:28,880 --> 00:01:30,820
+what the other person was going through,
 
 58
-00:01:32,548 --> 00:01:34,691
-it makes the storm smaller.
+00:01:30,870 --> 00:01:31,530
+they might've made it
 
 59
-00:01:34,991 --> 00:01:36,079
-Send this to someone
+00:01:31,580 --> 00:01:32,915
+through the storm together.
 
 60
-00:01:36,079 --> 00:01:37,508
-who needs to hear it.
+00:01:33,270 --> 00:01:35,310
+So if he starts pulling away,
 
 61
-00:01:37,508 --> 00:01:39,302
+00:01:35,360 --> 00:01:36,530
+don't chase him.
+
+62
+00:01:36,580 --> 00:01:37,915
+Don't disappear either.
+
+63
+00:01:38,150 --> 00:01:39,350
+Just let him know:
+
+64
+00:01:39,400 --> 00:01:41,460
+I'm not here to add to your problems.
+
+65
+00:01:41,510 --> 00:01:43,280
+I'm here because I love you.
+
+66
+00:01:43,330 --> 00:01:45,495
+You don't have to go through everything alone.
+
+67
+00:01:45,770 --> 00:01:47,380
+Because the right kind of closeness
+
+68
+00:01:47,430 --> 00:01:49,270
+doesn't make the storm heavier…
+
+69
+00:01:49,320 --> 00:01:51,310
+it makes it easier to survive.
+
+70
+00:01:51,680 --> 00:01:52,500
+Send this to someone
+
+71
+00:01:52,550 --> 00:01:53,770
+who needs to hear it.
+
+72
+00:01:53,820 --> 00:01:56,380
 And follow for more.

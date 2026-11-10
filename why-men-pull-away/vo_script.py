@@ -1,0 +1,22 @@
+# (start, end) of each scene's speech in the voice-over, and the exact spoken text
+VO = [
+ ((0.00, 4.74),   "Why does a man pull *away* | from the woman he loves, | right when life gets *hardest?*"),
+ ((5.37, 10.52),  "From the outside, | it makes *no sense.* | If he loves her, | why would he *push her away?*"),
+ ((11.10, 14.22), "But here's something | most people *don't understand.*"),
+ ((14.87, 19.89), "What a man *feels* | and how he *deals* with those feelings | are two very *different* things."),
+ ((20.49, 26.80), "When everything in his life | starts *falling apart,* | when he feels lost, exhausted, | and completely *out of control,*"),
+ ((27.36, 32.56), "he isn't thinking about | how to keep her close. | He's thinking about how to keep | his problems from *reaching her.*"),
+ ((33.21, 39.36), "In his mind, it's simple: | If I'm on *fire,* | I need to *protect the people I love* | from getting burned."),
+ ((40.02, 45.41), "Imagine his life | as a *sinking ship.* | Instead of asking her for help, | he *pushes her away.*"),
+ ((45.89, 53.21), "And he stays on board, | because it's his ship, | his responsibility. | He believes he has to *save it…* | or *sink with it.*"),
+ ((54.04, 63.50), "Here's where things go *wrong.* | In trying to protect her, | he *forgets how to let her love him.* | He becomes distant. | He stops talking. | He *shuts down* emotionally."),
+ ((63.94, 71.26), "Not necessarily because | his feelings are *gone,* | because somewhere deep inside, | he believes he has to face everything | *alone.*"),
+ ((71.83, 75.40), "And that's where so many men | *lose the very thing* | they're trying to protect."),
+ ((75.92, 79.71), "So many relationships | end like this. | Not because the love *disappeared,*"),
+ ((80.04, 87.08), "because she sees his silence | as *rejection,* | and he sees her attempts to get closer | as more *pressure,* | instead of support."),
+ ((87.52, 92.66), "If they could only understand | what the other person was going through, | they might've made it | *through the storm together.*"),
+ ((93.30, 97.78), "So if he starts pulling away, | don't *chase* him. | Don't *disappear* either."),
+ ((98.16, 105.32), "Just let him know: | *I'm not here to add to your problems.* | *I'm here because I love you.* | You don't have to go through everything *alone.*"),
+ ((105.92, 111.04), "Because the right kind of closeness | doesn't make the storm *heavier…* | it makes it *easier to survive.*"),
+ ((111.71, 114.83), "Send this to someone | who *needs to hear it.* | And follow for more."),
+]
