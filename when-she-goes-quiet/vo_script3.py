@@ -1,0 +1,18 @@
+VO3 = [
+ ((0.00, 8.91), "When a woman stops *fighting* with you, | it doesn't necessarily mean | she's at *peace.* | It might mean | she's slowly *giving up.*"),
+ ((9.79, 19.59), "Most men make the *same mistake.* | They think silence means | everything is finally *okay.* | No more arguments. | No more complaints. | No more difficult conversations."),
+ ((19.93, 29.85), "But here's what they *don't understand:* | a woman who keeps arguing | may still be trying | to *save the relationship.* | Because behind every complaint, | there's often a simple message:"),
+ ((30.34, 34.28), "*See me.* | *Hear me.* | *Make me feel like I matter.*"),
+ ((35.08, 49.67), "At first, she asks gently. | Then she asks again. | She tries to explain. | Sometimes she *cries.* | Sometimes she gets *angry.* | Not because she enjoys fighting, | but because she's *hoping* | something will finally *change.*"),
+ ((50.18, 56.72), "And every time, | she hears the *same things:* | “You're overreacting.” | “Not now.” | “Let's talk about it later.”"),
+ ((57.28, 63.51), "Until one day, | something inside her *changes.* | She stops *expecting…* | and starts *adjusting.*"),
+ ((63.79, 72.30), "She learns to do things *alone.* | To solve problems alone. | To deal with things | without asking for help. | She cries in the shower | just so nobody *hears her.*"),
+ ((72.77, 80.65), "And slowly, | she stops telling him about her day. | Not because nothing happens anymore, | but because she stopped believing | you really *listen.*"),
+ ((81.28, 89.98), "And that's the *dangerous* part. | On the outside, she looks calm. | Quiet. | Easy to be around. | But don't confuse her *silence* | with *happiness.*"),
+ ((90.24, 98.33), "Sometimes it's emotional *exhaustion.* | Sometimes it's a *goodbye,* | happening slowly, | one silent day at a time."),
+ ((98.92, 105.54), "By the time he finally notices… | she's already *gone.* | Not necessarily with a suitcase… | with her *heart.*"),
+ ((106.20, 116.73), "Then he says, | “She left out of *nowhere.*” | She didn't. | She tried to tell him, | again and again. | She was slowly walking away | for *years.* | He just never *noticed.*"),
+ ((117.36, 128.10), "So if she's still complaining, | don't immediately *shut her down.* | Don't treat every conversation | like an *attack.* | Sometimes she's not fighting *against* you. | She's fighting *for the relationship.*"),
+ ((128.68, 140.48), "Listen while she's still *talking.* | Pay attention while she still wants to *explain.* | Because sometimes the most heartbreaking moment | in a relationship | isn't when someone starts *shouting…* | it's when they finally *stop.*"),
+ ((141.48, 144.80), "Send this to someone | who *needs to hear it.* | And follow for more."),
+]
