@@ -1,3 +1,6 @@
 __pycache__/
+*.pyc
 *_sfx_events.json
-studio/data/
+data/
+.env
+.venv/

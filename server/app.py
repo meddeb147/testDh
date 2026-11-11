@@ -1,4 +1,4 @@
-"""Studio web server.  Run:  uvicorn app:app --app-dir studio/server --port 8000   (or ./studio/run.sh)"""
+"""Viral Studio web server.  Run from the repo root:  ./run.sh   (or: python -m uvicorn app:app --app-dir server --port 8000)"""
 import os, sys, json, uuid, shutil, subprocess, time
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 from fastapi import FastAPI, UploadFile, File, Form, HTTPException
