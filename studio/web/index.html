@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Viral Studio</title>
+<meta name="description" content="Pick a genre, get a viral script, record it, and get animated short, long and clip videos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&family=Space+Grotesk:wght@500;700&display=swap">
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="/" aria-label="Viral Studio home"><span class="logo">▶</span> Viral Studio</a>
+  <nav class="steps" id="stepnav" aria-label="Progress">
+    <button data-step="idea">1 Idea</button><button data-step="script">2 Script</button><button data-step="voice">3 Voice</button>
+    <button data-step="style">4 Style</button><button data-step="make">5 Video</button>
+  </nav>
+  <div class="me" id="me" title="Your creator level">
+    <span class="streak" id="streak">🔥 0</span>
+    <span class="level" id="level">Doodler</span>
+    <span class="xpbar"><i id="xpfill"></i></span>
+  </div>
+</header>
+
+<main>
+  <!-- STEP 1: IDEA -->
+  <section class="step" id="step-idea">
+    <h1>What are we making today?</h1>
+    <p class="sub">Pick a genre. I'll find the angle that spreads and write the voice-over for you.</p>
+    <div class="chips genres" id="genres" role="radiogroup" aria-label="Genre"></div>
+    <div class="row">
+      <label class="field">Language
+        <select id="language"></select>
+      </label>
+      <label class="field grow">Length <b id="lenlabel">75 s</b>
+        <input type="range" id="seconds" min="30" max="150" step="5" value="75">
+      </label>
+    </div>
+    <label class="field">Your idea <span class="muted">(optional)</span>
+      <input id="topic" placeholder="e.g. why we text our ex at 2am, a haunted elevator, a frog who can't jump…" maxlength="400">
+    </label>
+    <div class="chips tones" id="tones" aria-label="Tone"></div>
+    <div class="actions">
+      <button class="btn big" id="write">✨ Write my script</button>
+      <button class="btn ghost" id="haveScript">I already have a script &amp; voice →</button>
+    </div>
+  </section>
+
+  <!-- STEP 2: SCRIPT -->
+  <section class="step" id="step-script" hidden>
+    <div class="split">
+      <div>
+        <div class="kicker" id="srcbadge">Your script</div>
+        <h1 id="stitle">Title</h1>
+        <ul class="why" id="why"></ul>
+        <label class="field">Voice-over text <span class="muted" id="wc"></span>
+          <textarea id="script" rows="16" spellcheck="true"></textarea>
+        </label>
+        <div class="actions">
+          <button class="btn" id="copy">📋 Copy script</button>
+          <a class="btn ghost" href="https://elevenlabs.io/app/speech-synthesis" target="_blank" rel="noopener">Open ElevenLabs ↗</a>
+          <button class="btn ghost" id="again">🎲 Write another</button>
+        </div>
+      </div>
+      <aside class="card">
+        <h3>How to record</h3>
+        <ol class="howto">
+          <li>Copy the script and paste it <b>exactly</b> into ElevenLabs (or record it yourself).</li>
+          <li>Pick a calm narrator voice. Keep the "…" pauses.</li>
+          <li>Download the MP3 and bring it back here.</li>
+        </ol>
+        <h3>Post caption</h3>
+        <p id="caption" class="mono"></p>
+        <p id="tags" class="tags"></p>
+        <h3>How it'll be cut</h3>
+        <ol class="scenes" id="scenesPrev"></ol>
+        <div id="backup"></div>
+      </aside>
+    </div>
+    <div class="actions end"><button class="btn big" id="toVoice">🎙️ I've recorded it →</button></div>
+  </section>
+
+  <!-- STEP 3: VOICE -->
+  <section class="step" id="step-voice" hidden>
+    <h1>Drop your voice-over</h1>
+    <p class="sub">MP3, WAV or M4A, up to 5 minutes. Then make sure the text below is exactly what was spoken. That's how every caption lands on the right word.</p>
+    <label class="drop" id="drop" tabindex="0">
+      <input type="file" id="audio" accept="audio/*,.mp3,.wav,.m4a" hidden>
+      <span class="dropicon">🎧</span>
+      <span id="dropText">Drag your MP3 here, or <u>browse</u></span>
+      <audio id="player" controls hidden></audio>
+    </label>
+    <div class="row">
+      <label class="field grow">Video title <input id="title" maxlength="60" placeholder="When She Goes Quiet"></label>
+      <label class="field grow">Label on every frame <input id="label" maxlength="30" placeholder="WHEN SHE GOES QUIET"></label>
+    </div>
+    <label class="field">Exact spoken text <span class="muted">(edit if you changed words while recording)</span>
+      <textarea id="spoken" rows="10"></textarea>
+    </label>
+    <div class="actions end"><button class="btn big" id="toStyle" disabled>🎨 Pick a style →</button></div>
+  </section>
+
+  <!-- STEP 4: STYLE -->
+  <section class="step" id="step-style" hidden>
+    <div class="styletop">
+      <div>
+        <h1>Pick your animation style</h1>
+        <p class="sub">Hover to play. Every theme changes the colors, line style, captions, motion and music.</p>
+      </div>
+      <div class="collect" id="collect" title="Themes you've rendered with"></div>
+    </div>
+    <div class="actions"><button class="btn ghost" id="surprise">🎲 Surprise me</button></div>
+    <div class="themes" id="themes" role="radiogroup" aria-label="Animation theme"></div>
+    <div class="formats card">
+      <h3>What do you want back?</h3>
+      <label class="toggle"><input type="checkbox" id="fShort" checked><span>📱 <b>Short</b> 9:16 · TikTok, Reels, Shorts</span></label>
+      <label class="toggle"><input type="checkbox" id="fLong" checked><span>🖥️ <b>Long</b> 16:9 · YouTube, with end screen + thumbnail</span></label>
+      <label class="toggle"><span>✂️ <b>Clips</b> of the best moments: <b id="nclips">3</b></span><input type="range" id="clips" min="0" max="5" value="3"></label>
+    </div>
+    <div class="actions end"><button class="btn big" id="make">🎬 Make my video</button></div>
+  </section>
+
+  <!-- STEP 5: MAKE / RESULTS -->
+  <section class="step" id="step-make" hidden>
+    <div id="making">
+      <h1 id="mkTitle">Animating your video…</h1>
+      <div class="progress"><i id="pfill"></i></div>
+      <p class="sub" id="pmsg">Starting</p>
+      <ul class="stages" id="stages"></ul>
+      <p class="tip" id="tip"></p>
+    </div>
+    <div id="results" hidden>
+      <h1>🎉 Your video is ready</h1>
+      <p class="sub" id="rnote"></p>
+      <div class="themetabs" id="themetabs"></div>
+      <div class="outs">
+        <div class="out short card" id="outShort"></div>
+        <div class="out long card" id="outLong"></div>
+      </div>
+      <h2 id="clipsH">Clips</h2>
+      <div class="clips" id="outClips"></div>
+      <div class="card hop">
+        <h3>Same video, new vibe</h3>
+        <p class="sub">One click re-animates it in another theme. Your voice and timing stay the same.</p>
+        <div class="hopgrid" id="hop"></div>
+      </div>
+      <div class="actions"><button class="btn big" id="newVideo">➕ Make another video</button></div>
+    </div>
+  </section>
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<canvas id="confetti" aria-hidden="true"></canvas>
+<script src="/static/app.js"></script>
+</body>
+</html>
